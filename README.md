@@ -30,9 +30,8 @@
 
 ## 🔗 روابط مهمة
 
-- 💻 GitHub: https://github.com/MuMaCodes  
-- 🌐 الموقع الرسمي: https://mumacodes.online  
-- 🤝 المجموعة العامة: https://chat.whatsapp.com/G9ZR5G4IlFZ4shxiupmhRd  
+الموقع قريبا..: https://mumacodes.online  - 🌐  
+  المجتمع - واتس اب: https://chat.whatsapp.com/G9ZR5G4IlFZ4shxiupmhRd - 🤝 
 
 ---
 
