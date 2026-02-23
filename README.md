@@ -30,8 +30,8 @@
 
 ## 🔗 روابط مهمة
 
-الموقع قريبا..: https://mumacodes.online  - 🌐  
-  المجتمع - واتس اب: https://chat.whatsapp.com/G9ZR5G4IlFZ4shxiupmhRd - 🤝 
+الموقع قريبا..: https://mumacodes.online  
+  المجتمع - واتس اب: https://chat.whatsapp.com/G9ZR5G4IlFZ4shxiupmhRd  
 
 ---
 
