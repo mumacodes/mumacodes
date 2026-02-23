@@ -4,13 +4,6 @@
 
 ### 👨‍💻 مجتمع عربي للمبرمجين والطلاب
 مكانك الصحيح إذا كنت **مبرمجاً** أو **طالباً** تتعلم البرمجة 🚀
-
-<br>
-
-![Members](https://img.shields.io/badge/👥%20+1200%20عضو-gold?style=for-the-badge)
-![Groups](https://img.shields.io/badge/🧩%208%20مجموعات-black?style=for-the-badge)
-![Activity](https://img.shields.io/badge/💬%20تفاعل%20يومي-gold?style=for-the-badge)
-
 </div>
 
 ---
@@ -29,7 +22,7 @@
 
 <div align="center">
 
-[![Join WhatsApp](https://img.shields.io/badge/انضم%20الآن-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EN7sspWSSDqDk3tBVqtHk2)
+[![Join WhatsApp](https://img.shields.io/badge/انضم%20الآن-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=gold)](https://chat.whatsapp.com/EN7sspWSSDqDk3tBVqtHk2)
 
 </div>
 
